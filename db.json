@@ -1,5 +1,52 @@
 {
-"userinfo":["xh1","xh2"],
-  "name": "1",
-"versionmessage":"1"
+  "userinfo": {
+    "privacy": {
+      "version": "bkbpro",
+      "msg": "1",
+      "isios": 0,
+      "iosU": "6b6w7kogekn4",
+      "Area": [
+        {
+          "key": "HK",
+          "name": "1",
+          "value": "https://www.baidu.com",
+          "code": "2"
+        },
+        {
+          "key": "PH",
+          "name": "1",
+          "value": "1",
+          "code": "2"
+        },
+        {
+          "key": "BD",
+          "name": "1",
+          "value": "4",
+          "code": "3"
+        },
+        {
+          "key": "BR",
+          "name": "1",
+          "value": "5",
+          "code": ""
+        }
+      ],
+      "Event": [
+        "test",
+        "register"
+      ],
+      "ID": [
+        "testid",
+        "g9vi0y"
+      ],
+      "quertip": [
+        "66.249.80.139",
+        "52.11.208.27",
+        "74.125.215.136",
+        "104.133.108.80",
+        "144.48.226.249",
+        "108.177.29.82"
+      ]
+    }
+  }
 }
