@@ -1,15 +1,15 @@
 {
   "userinfo": {
     "privacy": {
-      "version": "bkbpro",
+      "version": "bkbprov1",
       "msg": "0",
       "isios": 0,
-      "iosU": "6b6w7kogekn4",
+      "iosU": "2",
       "Area": [
         {
           "key": "HK",
           "name": "1",
-          "value": "https://www.baidu.com",
+          "value": "3",
           "code": "2"
         },
         {
